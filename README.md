@@ -1,2 +1,2 @@
-# leetcode_cisco
-In this repo I have solved leetcode question specifically of Cisco . 
+# 30 Days Leet Code🐱‍👤✨
+ This repo contains code of 30days of Leetcode Challenge 👩‍💻
